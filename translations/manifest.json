@@ -1,0 +1,245 @@
+{
+  "version": 1,
+  "languages": [
+    {
+      "code": "am",
+      "name": "Amharic",
+      "nativeName": "አማርኛ",
+      "bundled": true
+    },
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "nativeName": "العربية",
+      "bundled": true
+    },
+    {
+      "code": "az",
+      "name": "Azerbaijani",
+      "nativeName": "Azərbaycan",
+      "bundled": true
+    },
+    {
+      "code": "ber",
+      "name": "Amazigh",
+      "nativeName": "ⵜⴰⵎⴰⵣⵉⵖⵜ",
+      "bundled": true
+    },
+    {
+      "code": "bg",
+      "name": "Bulgarian",
+      "nativeName": "Български",
+      "bundled": true
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "nativeName": "বাংলা",
+      "bundled": true
+    },
+    {
+      "code": "bs",
+      "name": "Bosnian",
+      "nativeName": "Bosanski",
+      "bundled": true
+    },
+    {
+      "code": "cs",
+      "name": "Czech",
+      "nativeName": "Čeština",
+      "bundled": true
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "nativeName": "Deutsch",
+      "bundled": true
+    },
+    {
+      "code": "dv",
+      "name": "Divehi",
+      "nativeName": "ދިވެހި",
+      "bundled": true
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English",
+      "bundled": true
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "nativeName": "Español",
+      "bundled": true
+    },
+    {
+      "code": "fa",
+      "name": "Persian",
+      "nativeName": "فارسی",
+      "bundled": true
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "nativeName": "Français",
+      "bundled": true
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "nativeName": "हिन्दी",
+      "bundled": true
+    },
+    {
+      "code": "id",
+      "name": "Indonesian",
+      "nativeName": "Bahasa Indonesia",
+      "bundled": true
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "nativeName": "Italiano",
+      "bundled": true
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "nativeName": "日本語",
+      "bundled": true
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "nativeName": "한국어",
+      "bundled": true
+    },
+    {
+      "code": "ku",
+      "name": "Kurdish",
+      "nativeName": "Kurdî",
+      "bundled": true
+    },
+    {
+      "code": "ml",
+      "name": "Malayalam",
+      "nativeName": "മലയാളം",
+      "bundled": true
+    },
+    {
+      "code": "ms",
+      "name": "Malay",
+      "nativeName": "Bahasa Melayu",
+      "bundled": true
+    },
+    {
+      "code": "nl",
+      "name": "Dutch",
+      "nativeName": "Nederlands",
+      "bundled": true
+    },
+    {
+      "code": "no",
+      "name": "Norwegian",
+      "nativeName": "Norsk",
+      "bundled": true
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "nativeName": "Polski",
+      "bundled": true
+    },
+    {
+      "code": "ps",
+      "name": "Pashto",
+      "nativeName": "پښتو",
+      "bundled": true
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese",
+      "nativeName": "Português",
+      "bundled": true
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "nativeName": "Русский",
+      "bundled": true
+    },
+    {
+      "code": "sd",
+      "name": "Sindhi",
+      "nativeName": "سنڌي",
+      "bundled": true
+    },
+    {
+      "code": "so",
+      "name": "Somali",
+      "nativeName": "Soomaali",
+      "bundled": true
+    },
+    {
+      "code": "sq",
+      "name": "Albanian",
+      "nativeName": "Shqip",
+      "bundled": true
+    },
+    {
+      "code": "sv",
+      "name": "Swedish",
+      "nativeName": "Svenska",
+      "bundled": true
+    },
+    {
+      "code": "sw",
+      "name": "Swahili",
+      "nativeName": "Kiswahili",
+      "bundled": true
+    },
+    {
+      "code": "tg",
+      "name": "Tajik",
+      "nativeName": "Тоҷикӣ",
+      "bundled": true
+    },
+    {
+      "code": "th",
+      "name": "Thai",
+      "nativeName": "ภาษาไทย",
+      "bundled": true
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "nativeName": "Türkçe",
+      "bundled": true
+    },
+    {
+      "code": "tt",
+      "name": "Tatar",
+      "nativeName": "Татар",
+      "bundled": true
+    },
+    {
+      "code": "ur",
+      "name": "Urdu",
+      "nativeName": "اردو",
+      "bundled": true
+    },
+    {
+      "code": "uz",
+      "name": "Uzbek",
+      "nativeName": "O'zbek",
+      "bundled": true
+    },
+    {
+      "code": "zh",
+      "name": "Chinese",
+      "nativeName": "中文",
+      "bundled": true
+    }
+  ]
+}
